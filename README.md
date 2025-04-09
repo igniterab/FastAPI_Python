@@ -38,7 +38,7 @@ app/
 ├── db/             # Models and DB session
 ├── dependencies/   # Auth dependencies
 ├── schemas/        # Pydantic schemas
-└── main.py         # FastAPI app
+main.py             # FastAPI app
 Dockerfile
 ```
 
